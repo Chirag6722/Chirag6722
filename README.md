@@ -5,7 +5,7 @@
 </a>
   
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,c,git,github,html,css,js,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,c,git,github,html,css,bootstrap)](https://skillicons.dev)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/chirag-h-99712026b/">
